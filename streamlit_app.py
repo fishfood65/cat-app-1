@@ -6,19 +6,19 @@ st.set_page_config(layout="wide")  # Use wide layout
 
 # List of updated questions
 questions = [
-    "🐕 Dog's Name", "🏥 Vet Contact Info (Name, Phone Number, Address)", "🥣 Describe the brand/type of food your dog eats", 
-    "🧳 Walk Routine (Time, Duration, Location, Behavior)", "🛁 Bathing Schedule", "🧸 Favorite Toys", "🎯 Current Training Goals",
-    "🦴 Name the Breed", "⛑️ Emergency Vet Contact Info (Name, Phone Number, Address)", "🍖 Describe the portion size for each meal", 
-    "📍 Favorite Walk Location", "💈 Brushing Schedule", "🐶 Play Styles", "🥁 Training Progress/Challenges",
-    "🎂 Dog’s Age and Weight", "💊 List all medical conditions or allergies", "🕥 Feeding Schedule", "🐶 Walking Equipment", 
-    "💅 Nail Trimming", "🎾 Favorite Activities", "📚 Training Methods", "🔖 Dog’s microchip number", "🕥 Medication Schedule with Dosage",
-    "🍗 Name your dog’s treats or snacks", "🐾 Walk Behavior", "👂 Ear Cleaning", "❗ Fear/Anxiety Triggers", 
-    "🏫 Trainer Contact (Name, Phone, Email)", "🖼️ Describe the Dog’s Appearance from Memory", "💊 Medication Delivery Instructions", 
-    "🕥 How often do you give your dog treats or snacks", "🍭 Treats for Walk", "🦷 Teeth Brushing", "📢 Commands Known", 
-    "🌴 Travel carte or car travel setup", "✂️ Dog is Spayed or Neutered", "🗄️ Health & Vaccination History", "💧 Water bowl refill schedule", 
+    "🐕 Cat's Name", "🏥 Vet Contact Info (Name, Phone Number, Address)", "🥣 Describe the brand/type of food your cat eats", 
+    "🧳 Environment Enrichment  (Scratching Posts/Pads)", "🛁 Bathing Schedule", "🧸 Environment Enrichment (Favorite Toys)", "🎯 Current Training Goals",
+    "🦴 Name the Breed/Type", "⛑️ Emergency Vet Contact Info (Name, Phone Number, Address)", "🍖 Describe the portion size for each meal", 
+    "📍 Environment Enrichment (Outdoor Access - Yes/No, Supervised/Unsupervised)", "💈 Brushing Schedule", "🐶 Environment Enrichment (Cat Tree/Perches)", "🥁 Training Progress/Challenges",
+    "🎂 Cat’s Age and Weight", "💊 List all medical conditions or allergies", "🕥 Feeding Schedule", "🐶 Environment Enrichment (Cat Tree/Perches)", 
+    "💅 Nail Trimming", "🎾 Favorite Activities", "📚 Waste Management (Litter Box Cleaning Routine, Waste Disposal Method)", "🔖 Cat’s microchip number", "🕥 Medication Schedule with Dosage",
+    "🍗 Name your Cat’s treats or snacks", "🐾 Litter Box (Type, Brand/Type, Location)", "👂 Ear Cleaning", "❗ Fear/Anxiety Triggers", 
+    "🏫 Placeholder Question 1", "🖼️ Describe the Cat’s Appearance from Memory", "💊 Medication Delivery Instructions", 
+    "🕥 Placeholder Question 2", "🍭 When are treats or snacks given?", "🦷 Teeth Brushing", "📢 Commands Known", 
+    "🌴 Travel carte or car travel setup", "✂️ Cat is Spayed or Neutered", "🗄️ Health & Vaccination History", "💧 Water bowl refill schedule", 
     "💤 Sleep Schedule", "🌟 Special Grooming Needs", "🔍 Behavioral Issues", "🚗 Car Sickness?", 
-    "🏘️ Place and date the Dog was adopted", "📆 Date of Dog’s next check-up or vaccination", "Bonus: Special Instructions for Sitters/Walkers", 
-    "🎾 Special Activities or Playtimes", "🚶‍♂️ Bonus: Pet Walker Contact Info", "🐶 Socialization with other dogs, children, and strangers", 
+    "🏘️ Place and date the Cat was adopted", "📆 Date of Cat’s next check-up or vaccination", "Bonus: Special Instructions for Sitters", 
+    "🎾 Special Activities or Playtimes", "🚶‍♂️ Bonus: Pet Groomer Contact Info", "🐶 Socialization with other animals, children, and strangers", 
     "🏠 Bonus: Pet Sitter Contact Info"
 ]
 
