@@ -9,7 +9,7 @@ questions = [
     "🐕 Cat's Name", "🏥 Vet Contact Info (Name, Phone Number, Address)", "🥣 Describe the brand/type of food your cat eats", 
     "🧳 Environment Enrichment  (Scratching Posts/Pads)", "🛁 Bathing Schedule", "🧸 Environment Enrichment (Favorite Toys)", "🎯 Current Training Goals",
     "🦴 Name the Breed/Type", "⛑️ Emergency Vet Contact Info (Name, Phone Number, Address)", "🍖 Describe the portion size for each meal", 
-    "📍 Environment Enrichment (Outdoor Access - Yes/No, Supervised/Unsupervised)", "💈 Brushing Schedule", "🐶 Environment Enrichment (Cat Tree/Perches)", "🥁 Training Progress/Challenges",
+    "📍 Environment Enrichment (Outdoor Access - Yes/No, Supervised/Unsupervised)", "💈 Brushing Schedule"," 😸 Environment Enrichment (Cat Tree/Perches)", "🥁 Training Progress/Challenges",
     "🎂 Cat’s Age and Weight", "💊 List all medical conditions or allergies", "🕥 Feeding Schedule", "🐶 Environment Enrichment (Cat Tree/Perches)", 
     "💅 Nail Trimming", "🎾 Favorite Activities", "📚 Waste Management (Litter Box Cleaning Routine, Waste Disposal Method)", "🔖 Cat’s microchip number", "🕥 Medication Schedule with Dosage",
     "🍗 Name your Cat’s treats or snacks", "🐾 Litter Box (Type, Brand/Type, Location)", "👂 Ear Cleaning", "❗ Fear/Anxiety Triggers", 
